@@ -105,14 +105,14 @@
   - type: Sprite
     state: poster_adtsilence_contraband #Спрайт от Иллюми
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterContrabandLustUma
-  name: Lusty Uma
-  description: "A poster with vulpcanine women of attractive appearance and in a provocative suit."
-  components:
-  - type: Sprite
-    state: poster_adtlustuma_contraband #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterContrabandLustUma
+#   name: Lusty Uma
+#   description: "A poster with vulpcanine women of attractive appearance and in a provocative suit."
+#   components:
+#   - type: Sprite
+#     state: poster_adtlustuma_contraband #Спрайт от Празата
 
 - type: entity
   parent: ADTPosterBase
@@ -791,83 +791,83 @@
 
 #спонсорские контрабандные постеры с Умой
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterContrabandUmaHot
-  name: Uma`s poster 1
-  description: Uma`s poster 1
-  suffix: Sponsor, Uma
-  components:
-  - type: Sprite
-    state: poster_umahot_contraband #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterContrabandUmaHot
+#   name: Uma`s poster 1
+#   description: Uma`s poster 1
+#   suffix: Sponsor, Uma
+#   components:
+#   - type: Sprite
+#     state: poster_umahot_contraband #Спрайт от Празата
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterContrabandUmaPress
-  name: Uma`s poster 2
-  description: Uma`s poster 2
-  suffix: Sponsor, Uma
-  components:
-  - type: Sprite
-    state: poster_umapress_contraband #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterContrabandUmaPress
+#   name: Uma`s poster 2
+#   description: Uma`s poster 2
+#   suffix: Sponsor, Uma
+#   components:
+#   - type: Sprite
+#     state: poster_umapress_contraband #Спрайт от Празата
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterContrabandUmaSport
-  name: Uma`s poster 3
-  description: Uma`s poster 3
-  suffix: Sponsor, Uma
-  components:
-  - type: Sprite
-    state: poster_umasport_contraband #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterContrabandUmaSport
+#   name: Uma`s poster 3
+#   description: Uma`s poster 3
+#   suffix: Sponsor, Uma
+#   components:
+#   - type: Sprite
+#     state: poster_umasport_contraband #Спрайт от Празата
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterContrabandUmaAndAzalia
-  name: Uma`s poster 4
-  description: Uma`s poster 4
-  suffix: Sponsor, Uma
-  components:
-  - type: Sprite
-    state: poster_umaazalia_contraband #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterContrabandUmaAndAzalia
+#   name: Uma`s poster 4
+#   description: Uma`s poster 4
+#   suffix: Sponsor, Uma
+#   components:
+#   - type: Sprite
+#     state: poster_umaazalia_contraband #Спрайт от Празата
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterContrabandUmaRabbit
-  name: Uma`s poster 5
-  description: Uma`s poster 5
-  suffix: Sponsor, Uma
-  components:
-  - type: Sprite
-    state: poster_umarabbit_contraband #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterContrabandUmaRabbit
+#   name: Uma`s poster 5
+#   description: Uma`s poster 5
+#   suffix: Sponsor, Uma
+#   components:
+#   - type: Sprite
+#     state: poster_umarabbit_contraband #Спрайт от Празата
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterContrabandUmaOnBeach
-  name: Uma`s poster 6
-  description: Uma`s poster 6
-  suffix: Sponsor, Uma
-  components:
-  - type: Sprite
-    state: poster_umaonbeach_contraband #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterContrabandUmaOnBeach
+#   name: Uma`s poster 6
+#   description: Uma`s poster 6
+#   suffix: Sponsor, Uma
+#   components:
+#   - type: Sprite
+#     state: poster_umaonbeach_contraband #Спрайт от Празата
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterWhatDVLegit
-  name: What is Dar-Vaxed?
-  suffix: DV
-  components:
-  - type: Sprite
-    state: poster_whatdv_legit #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterWhatDVLegit
+#   name: What is Dar-Vaxed?
+#   suffix: DV
+#   components:
+#   - type: Sprite
+#     state: poster_whatdv_legit #Спрайт от Празата
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterUnclePrazLegit
-  name: We need you!
-  suffix: DV
-  components:
-  - type: Sprite
-    state: poster_unclepraz_legit #Спрайт от Празата
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterUnclePrazLegit
+#   name: We need you!
+#   suffix: DV
+#   components:
+#   - type: Sprite
+#     state: poster_unclepraz_legit #Спрайт от Празата
 
 - type: entity
   parent: ADTPosterBase
@@ -878,14 +878,14 @@
   - type: Sprite
     state: poster_noLRP
 
-- type: entity
-  parent: ADTPosterBase
-  id: ADTPosterPangaariBirthday
-  name: Pangaari
-  description: "-"
-  components:
-  - type: Sprite
-    state: poster_HB_Pangaari
+# - type: entity
+#   parent: ADTPosterBase
+#   id: ADTPosterPangaariBirthday
+#   name: Pangaari
+#   description: "-"
+#   components:
+#   - type: Sprite
+#     state: poster_HB_Pangaari
 
 - type: entity
   parent: PosterBase

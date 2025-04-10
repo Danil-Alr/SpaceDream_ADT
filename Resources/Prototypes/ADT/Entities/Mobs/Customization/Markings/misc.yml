@@ -3,7 +3,7 @@
   id: AugmentsAugArmRight
   bodyPart: RArm
   markingCategory: Arms
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: r_augarm
@@ -12,7 +12,7 @@
   id: AugmentsAugHandRigh
   bodyPart: RHand
   markingCategory: Arms
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: r_aughand
@@ -21,7 +21,7 @@
   id: AugmentsAugArmLeft
   bodyPart: LArm
   markingCategory: Arms
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: l_augarm
@@ -30,7 +30,7 @@
   id: AugmentsAugHandLeft
   bodyPart: LHand
   markingCategory: Arms
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: l_aughand
@@ -39,7 +39,7 @@
   id: AugmentsAugTorso
   bodyPart: Chest
   markingCategory: Chest
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: augtorso_m
@@ -48,7 +48,7 @@
   id: AugmentsAugLegRight
   bodyPart: RLeg
   markingCategory: Legs
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: r_augleg
@@ -57,7 +57,7 @@
   id: AugmentsAugFootRight
   bodyPart: RFoot
   markingCategory: Legs
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: r_augfoot
@@ -66,7 +66,7 @@
   id: AugmentsAugLegLeft
   bodyPart: LLeg
   markingCategory: Legs
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: l_augleg
@@ -75,7 +75,7 @@
   id: AugmentsAugFootLeft
   bodyPart: LFoot
   markingCategory: Legs
-  sponsorOnly: true
+  # sponsorOnly: true
   sprites:
     - sprite: ADT/Mobs/Customization/augments/augbody.rsi
       state: l_augfoot
@@ -85,7 +85,7 @@
   id: AugmentsRoboticArmRight
   bodyPart: RArm
   markingCategory: Arms
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: r_roboarm
@@ -94,7 +94,7 @@
   id: AugmentsRoboticHandRigh
   bodyPart: RHand
   markingCategory: Arms
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: r_robohand
@@ -103,7 +103,7 @@
   id: AugmentsRoboticArmLeft
   bodyPart: LArm
   markingCategory: Arms
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: l_roboarm
@@ -112,7 +112,7 @@
   id: AugmentsRoboticHandLeft
   bodyPart: LHand
   markingCategory: Arms
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: l_robohand
@@ -121,7 +121,7 @@
   id: AugmentsRoboticTorso
   bodyPart: Chest
   markingCategory: Chest
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: robotorso_m
@@ -130,7 +130,7 @@
   id: AugmentsRoboticLegRight
   bodyPart: RLeg
   markingCategory: Legs
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: r_roboleg
@@ -139,7 +139,7 @@
   id: AugmentsRoboticFootRight
   bodyPart: RFoot
   markingCategory: Legs
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: r_robofoot
@@ -148,7 +148,7 @@
   id: AugmentsRoboticLegLeft
   bodyPart: LLeg
   markingCategory: Legs
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: l_roboleg
@@ -157,7 +157,7 @@
   id: AugmentsRoboticFootLeft
   bodyPart: LFoot
   markingCategory: Legs
-  sponsorOnly: false
+  # sponsorOnly: false
   sprites:
     - sprite: ADT/Mobs/Customization/augments/robotbody1.rsi
       state: l_robofoot
@@ -167,7 +167,7 @@
   id: Malstrem
   bodyPart: Eyes
   markingCategory: Head
-  sponsorOnly: true
+  # sponsorOnly: true
   coloring:
     default:
       type:
@@ -194,7 +194,7 @@
   id: Terminator
   bodyPart: Eyes
   markingCategory: Head
-  sponsorOnly: true
+  # sponsorOnly: true
   coloring:
     default:
       type:

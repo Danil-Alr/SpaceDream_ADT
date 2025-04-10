@@ -17,9 +17,6 @@
             "name": "poster_noLRP"
         },
         {
-            "name": "poster_HB_Pangaari"
-        },
-        {
             "name": "poster_adtturnonsensors_legit"
         },
         {
@@ -41,37 +38,10 @@
             "name": "poster_adtsilence_contraband"
         },
         {
-            "name": "poster_adtlustuma_contraband"
-        },
-        {
             "name": "poster_adtlustardeco_contraband"
         },
         {
             "name": "quadro_electronics"
-        },
-        {
-            "name": "poster_umahot_contraband"
-        },
-        {
-            "name": "poster_umapress_contraband"
-        },
-        {
-            "name": "poster_umasport_contraband"
-        },
-        {
-            "name": "poster_umaazalia_contraband"
-        },
-        {
-            "name": "poster_umarabbit_contraband"
-        },
-        {
-            "name": "poster_umaonbeach_contraband"
-        },
-        {
-            "name": "poster_whatdv_legit"
-        },
-        {
-            "name": "poster_unclepraz_legit"
         }
     ]
 }
