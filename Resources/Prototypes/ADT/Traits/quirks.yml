@@ -27,7 +27,7 @@
   category: Quirks
   components:
     - type: Sprinter
-      modifier: 1.05
+      modifier: 1.2
   cost: 4
   quirk: true
 
