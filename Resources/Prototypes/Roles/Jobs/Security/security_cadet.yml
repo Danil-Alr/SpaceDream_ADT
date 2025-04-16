@@ -10,7 +10,7 @@
     - !type:SpeciesRequirement
       inverted: true
       species:
-      - Resomi
+      #- Resomi SD-edit
       - Vox
     # ADT RESTRICT End
   startingGear: SecurityCadetGear
