@@ -7,7 +7,7 @@ using Robust.Shared.Utility;
 
 namespace Content.Server.Administration.Commands;
 
-[AdminCommand(AdminFlags.Adminchat)] // Use only administration with flag AdminChat, eddit ADT
+[AnyCommand] // Use only administration with flag AdminChat, eddit ADT
 public sealed class AdminWhoCommand : IConsoleCommand
 {
     public string Command => "adminwho";
