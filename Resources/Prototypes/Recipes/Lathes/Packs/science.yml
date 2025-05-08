@@ -44,7 +44,7 @@
 - type: latheRecipePack
   id: PowerCells
   recipes:
-  # - PowerCellMicroreactor ADT tweak
+  - PowerCellMicroreactor
   - PowerCellHigh
 
 - type: latheRecipePack

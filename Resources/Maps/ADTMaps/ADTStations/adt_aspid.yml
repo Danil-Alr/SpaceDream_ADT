@@ -4801,7 +4801,7 @@ entities:
     - type: Transform
       pos: 10.582505,40.49309
       parent: 2
-- proto: ADTClothingModsuitBackSecurity
+- proto: ClothingOuterHardsuitSecurity
   entities:
   - uid: 6808
     components:

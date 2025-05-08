@@ -105,6 +105,23 @@
         reagents:
         - ReagentId: Silicon
           Quantity: 10
+  # SD-Tweak-Start
+  # - type: UserInterface
+  #   interfaces:
+  #     enum.RadialSelectorUiKey.Key:
+  #       type: RadialSelectorMenuBUI
+  # - type: ActivatableUI
+  #   key: enum.RadialSelectorUiKey.Key
+  #   inHandsOnly: true
+  #   requireActiveHand: false
+  # - type: ShortConstruction
+  #   entries:
+  #   - prototype: Window
+  #   - prototype: WindowDirectional
+  #   - prototype: WindowDiagonal
+  #   - prototype: SheetRGlass
+  #   - prototype: SheetPGlass
+  # SD-Tweak-End
 
 - type: entity
   parent: SheetGlass
@@ -200,6 +217,22 @@
         Heat: -8
         Cold: -8
   # ADT IPC healing end
+  # SD-Tweak-Start
+  # - type: UserInterface
+  #   interfaces:
+  #     enum.RadialSelectorUiKey.Key:
+  #       type: RadialSelectorMenuBUI
+  # - type: ActivatableUI
+  #   key: enum.RadialSelectorUiKey.Key
+  #   inHandsOnly: true
+  #   requireActiveHand: false
+  # - type: ShortConstruction
+  #   entries:
+  #   - prototype: SheetRPGlass1
+  #   - prototype: ReinforcedWindow
+  #   - prototype: ReinforcedWindowDiagonal
+  #   - prototype: WindowReinforcedDirectional
+  # SD-Tweak-End
 
 - type: entity
   parent: SheetRGlass
@@ -286,6 +319,22 @@
         Heat: -5
         Cold: -10
   # ADT IPC healing end
+  # SD-Tweak-Start
+  # - type: UserInterface
+  #   interfaces:
+  #     enum.RadialSelectorUiKey.Key:
+  #       type: RadialSelectorMenuBUI
+  # - type: ActivatableUI
+  #   key: enum.RadialSelectorUiKey.Key
+  #   inHandsOnly: true
+  #   requireActiveHand: false
+  # - type: ShortConstruction
+  #   entries:
+  #   - prototype: SheetRPGlass0
+  #   - prototype: PlasmaWindow
+  #   - prototype: PlasmaWindowDiagonal
+  #   - prototype: PlasmaWindowDirectional
+  # SD-Tweak-End
 
 - type: entity
   parent: SheetPGlass
@@ -385,6 +434,21 @@
         Heat: -10
         Cold: -15
   # ADT IPC healing end
+  # SD-Tweak-Start
+  # - type: UserInterface
+  #   interfaces:
+  #     enum.RadialSelectorUiKey.Key:
+  #       type: RadialSelectorMenuBUI
+  # - type: ActivatableUI
+  #   key: enum.RadialSelectorUiKey.Key
+  #   inHandsOnly: true
+  #   requireActiveHand: false
+  # - type: ShortConstruction
+  #   entries:
+  #   - prototype: ReinforcedPlasmaWindow
+  #   - prototype: ReinforcedPlasmaWindowDiagonal
+  #   - prototype: PlasmaReinforcedWindowDirectional
+  # SD-Tweak-End
 
 - type: entity
   parent: SheetRPGlass

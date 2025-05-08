@@ -112,6 +112,22 @@
     tags:
     - Sheet
     - NoPaint #ADT tweak
+  # SD-Tweak-Start
+  # - type: UserInterface
+  #   interfaces:
+  #     enum.RadialSelectorUiKey.Key:
+  #       type: RadialSelectorMenuBUI
+  # - type: ActivatableUI
+  #   key: enum.RadialSelectorUiKey.Key
+  #   inHandsOnly: true
+  #   requireActiveHand: false
+  # - type: ShortConstruction
+  #   entries:
+  #   - prototype: SheetPGlass
+  #   - prototype: SheetRPGlass
+  #   - prototype: SheetRPGlass1
+  # SD-Tweak-End
+
 
 - type: entity
   parent: SheetPlasma
@@ -175,6 +191,20 @@
         - ReagentId: Phosphorus
           Quantity: 5
         canReact: false
+  # SD-Tweak-Start
+  # - type: UserInterface
+  #   interfaces:
+  #     enum.RadialSelectorUiKey.Key:
+  #       type: RadialSelectorMenuBUI
+  # - type: ActivatableUI
+  #   key: enum.RadialSelectorUiKey.Key
+  #   inHandsOnly: true
+  #   requireActiveHand: false
+  # - type: ShortConstruction
+  #   entries:
+  #   - prototype: CratePlastic
+  # SD-Tweak-End
+
 
 - type: entity
   parent: SheetPlastic

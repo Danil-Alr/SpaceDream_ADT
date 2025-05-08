@@ -335,3 +335,16 @@
     Gold: 100
     Plasma: 50
     Silver: 400
+
+- type: latheRecipe # SD tweak
+  id: ADTModsuitCoreEnergy
+  result: ADTModsuitCoreEnergy
+  completetime: 10
+  materials:
+    Steel: 1000
+    Glass: 800
+    Gold: 200
+    Plasma: 1000
+    Silver: 200
+    Diamond: 500
+

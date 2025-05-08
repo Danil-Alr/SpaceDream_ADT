@@ -21,12 +21,12 @@
           key: "enum.MechAssemblyVisuals.State"
           data: 2
 
-      - component: PowerCell
-        name: battery
-        store: battery-container
-        icon:
-          sprite: Objects/Power/power_cells.rsi
-          state: small
+      # - component: PowerCell # SD невалидо
+      #   name: battery
+      #   store: battery-container
+      #   icon:
+      #     sprite: Objects/Power/power_cells.rsi
+      #     state: small
 
       - tag: ADTModsuitHelmet
         name: MOD helmet

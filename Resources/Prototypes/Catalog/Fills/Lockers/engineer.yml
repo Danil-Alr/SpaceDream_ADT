@@ -87,7 +87,7 @@
   components:
   - type: StorageFill
     contents:
-      - id: ADTClothingModsuitBackAtmos #ADT tweak
+      - id: ClothingOuterHardsuitAtmos
       - id: ClothingMaskGasAtmos
       - id: ClothingOuterSuitAtmosFire
       - id: ClothingHeadHelmetAtmosFire
@@ -99,9 +99,16 @@
       - id: ADTRPD
       - id: ADTRPDAmmo
   # ADT-RPD-End
-    # ADT-WikiBooks-Start
+  # ADT-WikiBooks-Start
       - id: ADTBookSRPeng
-    # ADT-WikiBooks-End
+  # ADT-WikiBooks-End
+  # SD-ElfAtmos-Start
+      - id: RCD
+      - id: RCDAmmo
+      - id: ClothingHandsGlovesColorYellow
+      - id: ClothingShoesBootsMagAtmos
+  # SD-ElfAtmos-End
+
 
 - type: entity
   id: LockerAtmosphericsFilled
@@ -121,9 +128,14 @@
       - id: ADTRPD
       - id: ADTRPDAmmo
   # ADT-RPD-End
-    # ADT-WikiBooks-Start
+  # ADT-WikiBooks-Start
       - id: ADTBookSRPeng
-    # ADT-WikiBooks-End
+  # ADT-WikiBooks-End
+  # SD-ElfAtmos-Start
+      - id: RCD
+      - id: RCDAmmo
+      - id: ClothingHandsGlovesColorYellow
+  # SD-ElfAtmos-End
 
 - type: entity
   id: LockerEngineerFilledHardsuit
@@ -132,7 +144,7 @@
   components:
   - type: StorageFill
     contents:
-      - id: ADTClothingModsuitBackEngineering #ADT tweak
+      - id: ClothingOuterHardsuitEngineering
       - id: ClothingHandsGlovesColorYellow
       - id: ClothingMaskGas
       - id: ClothingShoesBootsMag

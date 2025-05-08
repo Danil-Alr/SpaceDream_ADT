@@ -5171,7 +5171,7 @@ entities:
     - type: Transform
       pos: 17.524143,-4.267884
       parent: 2
-- proto: ADTClothingModsuitBackSecurity
+- proto: ClothingOuterHardsuitSecurity
   entities:
   - uid: 3105
     components:

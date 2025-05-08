@@ -200,6 +200,7 @@
     - id: ADTBookPCDcmd
     - id: ADTtelescopicBaton
     # ADT-WikiBooks-End
+    - id: AtmoTechCartridge # SD Elven Atmos
 
 # Hardsuit table, used for suit storage as well
 - type: entityTable
@@ -410,7 +411,7 @@
   table: !type:AllSelector
     children:
     - id: ClothingMaskGasSwat
-    - id: ADTClothingModsuitBackSafeguard #ADT tweak
+    - id: ClothingOuterHardsuitSecurityRed
     - id: JetpackSecurityFilled
     - id: OxygenTankFilled
 

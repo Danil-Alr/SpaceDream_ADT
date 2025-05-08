@@ -317,6 +317,8 @@
     - MVCable
     - HVCable
     - CableTerminal
+    - MachineFrame # SD tweak
+    - ComputerFrame # SD tweak
     - Deconstruct
   - type: LimitedCharges
     maxCharges: 30
