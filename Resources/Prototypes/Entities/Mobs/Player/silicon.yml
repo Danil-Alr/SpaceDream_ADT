@@ -486,6 +486,7 @@
       Dwarf: Speak
       CintaTaj: Speak
       SiliconCollectiveMind: Speak
+      Sindrin: Speak # SD-tweak
   - type: CollectiveMindRank
     rankName: collective-mind-sai-rank
   - type: StationAiBrain
