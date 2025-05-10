@@ -65,7 +65,9 @@
   - HarmonicaInstrument
   - ADTModStorageVoucher
   # ADT-Tweak-End
-
+  # SD-tweak-start
+  - SDClothingNeckPinGerman
+  # SD-tweak-end
 - type: loadoutGroup
   id: Glasses
   name: loadout-group-glasses

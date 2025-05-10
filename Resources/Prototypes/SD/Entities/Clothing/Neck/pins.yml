@@ -1,0 +1,16 @@
+- type: entity
+  parent: ClothingNeckPinBase
+  id: SDClothingNeckPinGerman
+  name: pin german
+  description: pin german
+  components:
+  - type: Sprite
+    sprite: SD/Entities/Clothing/Neck/german_pin.rsi
+    state: de
+  - type: Clothing
+    sprite: SD/Entities/Clothing/Neck/german_pin.rsi
+    equippedPrefix: uega
+    state: de-equipped-NECK
+    clothingVisuals:
+      neck:
+      - state: de-equipped-NECK
