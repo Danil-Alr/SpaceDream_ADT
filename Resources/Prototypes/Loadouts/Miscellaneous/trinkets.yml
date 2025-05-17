@@ -213,6 +213,13 @@
 #     back:
 #     - ClothingNeckGoldAutismPin
 #ADT end
+# sd start
+- type: loadout
+  id: SDClothingNeckPinGerman
+  storage:
+    back:
+    - SDClothingNeckPinGerman
+# sd end
 
 # Towels
 - type: loadout
