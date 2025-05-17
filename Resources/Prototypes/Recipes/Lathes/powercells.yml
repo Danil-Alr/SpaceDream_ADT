@@ -32,17 +32,18 @@
     Plastic: 200
     Gold: 50
 
-- type: latheRecipe
+- type: latheRecipe # SD tweak
   id: PowerCellMicroreactor
   result: PowerCellMicroreactorPrinted
   categories:
   - Parts
   completetime: 10
   materials:
-    Steel: 500
-    Glass: 400
-    Uranium: 200
-    Gold: 100
+    Steel: 1000
+    Glass: 600
+    Uranium: 400
+    Gold: 200
+    Diamond: 200
 
 - type: latheRecipe
   id: PowerCageSmall
